@@ -110,5 +110,5 @@ fi
 export PATH=$PATH:/usr/local/MatlabR2010a/bin/
 export PATH=/home/rodrigaf/epd/bin:$PATH
 export SVN_EDITOR=vi
-cd /home/rodrigaf/work
 #cd /home/rodrigaf/work/projects/atrsensiac
+cd /home/rodrigaf/work
